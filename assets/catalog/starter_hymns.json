@@ -1,0 +1,2290 @@
+{
+  "version": "2026.08.1",
+  "source": "http://openhymnal.org/openhymnal.201406.xml",
+  "songCount": 30,
+  "songs": [
+    {
+      "id": "open-hymnal-001",
+      "title": "A Mighty Fortress Is Our God",
+      "alternateTitle": "",
+      "author": "Martin Luther, 1529. Translation Frederic Henry Hedge, 1853.",
+      "composer": "'Ein Feste Burg (Isorhythmic)' Martin Luther, 1529.",
+      "tune": "Ein Feste Burg (Isorhythmic)",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "2Sam 22:2-3",
+        "Ps 18:1-2",
+        "1Cor 15:55-57",
+        "Rom 8:37-39"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-001-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "A mighty fortress is our God, a bulwark never failing; Our helper He, amid the flood of mortal ills prevailing: For still our ancient foe doth seek to work us woe; His craft and pow'r are great, and, armed with cruel hate, On earth is not his equal.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-001-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Did we in our own strength confide, our striving would be losing; Were not the right Man on our side, the Man of God's own choosing: Dost ask who that may be? Christ Jesus, it is He; Lord Sabaoth, His name, from age to age the same, And He must win the battle.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-001-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "And though this world, with devils filled, should threaten to undo us, We will not fear, for God hath willed His truth to triumph through us: The Prince of Darkness grim, we tremble not for him; His rage we can endure, for lo, his doom is sure, One little word shall fell him.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-001-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "That word above all earthly pow'rs, no thanks to them, abideth; The Spirit and the gifts are ours through Him who with us sideth: Let goods and kindred go, this mortal life also; The body they may kill: God's truth abideth still, His kingdom is forever.",
+          "order": 3
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Martin Luther, 1529. Translation Frederic Henry Hedge, 1853. Music: 'Ein Feste Burg (Isorhythmic)' Martin Luther, 1529. Setting: \"Common Service Book\" (ULCA), 1917, alt. copyright: public domain. This score is a part of the Open Hymnal Project, 2013 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-002",
+      "title": "Abide With Me",
+      "alternateTitle": "",
+      "author": "Henry F. Lyte, 1847.",
+      "composer": "'Eventide' William H. Monk, 1861.",
+      "tune": "Eventide",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Lk 24:29",
+        "Ps 63:6-8",
+        "73:23-26",
+        "1Cor 10:13"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-002-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Abide with me; fast falls the eventide; The darkness deepens; Lord with me abide. When other helpers fail and comforts flee, Help of the helpless, O abide with me.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-002-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Swift to its close ebbs out life's little day; Earth's joys grow dim; its glories pass away; Change and decay in all around I see; O Thou who changest not, abide with me.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-002-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Not a brief glance I beg, a passing word; But as Thou dwell'st with Thy disciples, Lord, Familiar, condescending, patient, free. Come not to sojourn, but abide with me.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-002-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Come not in terrors, as the King of kings, But kind and good, with healing in Thy wings, Tears for all woes, a heart for every plea? Come, Friend of sinners, and thus bide with me.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-002-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Thou on my head in early youth didst smile; And, though rebellious and perverse meanwhile, Thou hast not left me, oft as I left Thee, On to the close, O Lord, abide with me.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-002-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "I need Thy presence every passing hour. What but Thy grace can foil the tempter's power? Who, like Thyself, my guide and stay can be? Through cloud and sunshine, Lord, abide with me.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-002-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "I fear no foe, with Thee at hand to bless; Ills have no weight, and tears no bitterness. Where is death's sting? Where, grave, thy victory? I triumph still, if Thou abide with me.",
+          "order": 6
+        },
+        {
+          "id": "open-hymnal-002-v8",
+          "type": "verse",
+          "label": "Verse 8",
+          "lyrics": "Hold Thou Thy cross before my closing eyes; Shine through the gloom and point me to the skies. Heaven's morning breaks, and earth's vain shadows flee; In life, in death, O Lord, abide with me.",
+          "order": 7
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Henry F. Lyte, 1847. Music: 'Eventide' William H. Monk, 1861. Setting: William H. Monk, 1861. copyright: public domain. This score is a part of the Open Hymnal Project, 2008 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-003",
+      "title": "All Creatures of Our God and King",
+      "alternateTitle": "",
+      "author": "Francis of Assisi circa 1225. Translated by William H. Draper, 1919.",
+      "composer": "'Lasst Uns Erfreuen' from Geistliche Kirchengesäng, Köln, 1623.",
+      "tune": "Lasst Uns Erfreuen",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Ps 69:34",
+        "Ps 148"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-003-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "All creatures of our God and King Lift up your voice and with us sing, Alleluia! Alleluia! Thou burning sun with golden beam, Thou silver moon with softer gleam! O praise Him! O praise Him! Alleluia! Alleluia! Alleluia!",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-003-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Thou rushing wind that art so strong Ye clouds that sail in Heaven along, O praise Him! Alleluia! Thou rising moon, in praise rejoice, Ye lights of evening, find a voice! O praise Him! O praise Him! Alleluia! Alleluia! Alleluia!",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-003-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Thou flowing water, pure and clear, Make music for thy Lord to hear, O praise Him! Alleluia! Thou fire so masterful and bright, That givest man both warmth and light. O praise Him! O praise Him! Alleluia! Alleluia! Alleluia!",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-003-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Dear mother earth, who day by day Unfoldest blessings on our way, O praise Him! Alleluia! The flowers and fruits that in thee grow, Let them His glory also show. O praise Him! O praise Him! Alleluia! Alleluia! Alleluia!",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-003-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "And all ye men of tender heart, Forgiving others, take your part, O sing ye! Alleluia! Ye who long pain and sorrow bear, Praise God and on Him cast your care! O praise Him! O praise Him! Alleluia! Alleluia! Alleluia!",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-003-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "And thou most kind and gentle Death, Waiting to hush our latest breath, O praise Him! Alleluia! Thou leadest home the child of God, And Christ our Lord the way hath trod.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-003-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "Let all things their Creator bless, And worship Him in humbleness, O praise Him! Alleluia! Praise, praise the Father, praise the Son, And praise the Spirit, Three in One!",
+          "order": 6
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Francis of Assisi circa 1225. Translated by William H. Draper, 1919. Music: 'Lasst Uns Erfreuen' from Geistliche Kirchengesäng, Köln, 1623. Setting: Ralph Vaughan Williams, 1906. copyright: public domain. This score is a part of the Open Hymnal Project, 2005 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-004",
+      "title": "All Hail The Power Of Jesus' Name",
+      "alternateTitle": "",
+      "author": "Edward Perronet, 1780.",
+      "composer": "'Coronation' Oliver Holden, 1793.",
+      "tune": "Coronation",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Phil 2:9-11",
+        "Rev 5:9-14",
+        "Heb 2:9",
+        "Phil 2:9-10",
+        "Rev 19:16"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-004-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "All hail the pow'r of Jesus' Name! Let angels prostrate fall; Bring forth the royal diadem, and crown Him Lord of all. Bring forth the royal diadem, and crown Him Lord of all.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-004-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Let highborn seraphs tune the lyre, and as they tune it, fall Before His face Who tunes their choir, and crown Him Lord of all. Before His face Who tunes their choir, and crown Him Lord of all.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-004-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Crown Him, ye morning stars of light, who fixed this floating ball; Now hail the strength of Israel's might, and crown Him Lord of all. Now hail the strength of Israel's might, and crown Him Lord of all.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-004-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Crown Him, ye martyrs of your God, who from His altar call; Extol the Stem of Jesse's Rod, and crown Him Lord of all. Extol the Stem of Jesse's Rod, and crown Him Lord of all.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-004-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Ye seed of Israel's chosen race, ye ransomed from the fall, Hail Him Who saves you by His grace, and crown Him Lord of all. Hail Him Who saves you by His grace, and crown Him Lord of all.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-004-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "Hail Him, ye heirs of David's line, whom David Lord did call, The God incarnate, Man divine, and crown Him Lord of all, The God incarnate, Man divine, and crown Him Lord of all.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-004-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "Sinners, whose love can ne'er forget the wormwood and the gall, Go spread your trophies at His feet, and crown Him Lord of all. Go spread your trophies at His feet, and crown Him Lord of all.",
+          "order": 6
+        },
+        {
+          "id": "open-hymnal-004-v8",
+          "type": "verse",
+          "label": "Verse 8",
+          "lyrics": "Let every tribe and every tongue before Him prostrate fall And shout in universal song the crownèd Lord of all. And shout in universal song the crownèd Lord of all.",
+          "order": 7
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Edward Perronet, 1780. Music: 'Coronation' Oliver Holden, 1793. Setting: \"The Church Hymnal, Revised and Enlarged\" (Episcopal), 1896, alt. copyright: public domain. This score is a part of the Open Hymnal Project, 2007 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-005",
+      "title": "Amazing Grace",
+      "alternateTitle": "",
+      "author": "John Newton, 1779. last verse author unknown, before 1829.",
+      "composer": "'New Britain' James P. Carrell and David L. Clayton, 1831.",
+      "tune": "New Britain",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Jn 9:25",
+        "Eph 2:4-9"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-005-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Amazing grace! How sweet the sound That saved a wretch like me! I once was lost, but now am found; Was blind, but now I see.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-005-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "'Twas grace that taught my heart to fear, And grace my fears relieved; How precious did that grace appear The hour I first believed.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-005-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Through many dangers, toils and snares, I have already come; 'Tis grace hath brought me safe thus far, And grace will lead me home.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-005-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "The Lord has promised good to me, His Word my hope secures; He will my Shield and Portion be, As long as life endures.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-005-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Yea, when this flesh and heart shall fail, And mortal life shall cease, I shall possess, with in the veil, A life of joy and peace.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-005-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "The earth shall soon dissolve like snow, The sun forbear to shine; But God, Who called me here below, Shall be forever mine.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-005-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "When we've been there ten thousand years, Bright shining as the sun, We've no less days to sing God's praise Than when we'd first begun.",
+          "order": 6
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: John Newton, 1779. last verse author unknown, before 1829. Music: 'New Britain' James P. Carrell and David L. Clayton, 1831. Setting: Edwin Othello Excell, 1900. copyright: public domain. This score is a part of the Open Hymnal Project, 2006 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-006",
+      "title": "And Can It Be",
+      "alternateTitle": "",
+      "author": "Charles Wesley, 1738.",
+      "composer": "'Fillmore' Jeremiah Ingalls (1764-1828).",
+      "tune": "Fillmore",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Rom 5:8-10",
+        "Eph 3:8-12",
+        "Acts 12:7",
+        "1Kgs 19:11-12"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-006-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "And can it be that I should gain An interest in the Savior's blood? Died He for me, who caused His pain? For me, who Him to death pursued? Amazing love! How can it be, That Thou, my God, shouldst die for me?",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-006-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "'Tis mystery all: th'Immortal dies: Who can explore His strange design? In vain the firstborn seraph tries To sound the depths of love divine. 'Tis mercy all! Let earth adore, Let angel minds inquire no more.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-006-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "He left His Father's throne above So free, so infinite His grace? Emptied Himself of all but love, And bled for Adam's helpless race: 'Tis mercy all, immense and free, For O my God, it found out me!",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-006-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Long my imprisoned spirit lay, Fast bound in sin and nature's night; Thine eye diffused a quick'ning ray? I woke, the dungeon flamed with light; My chains fell off, my heart was free, I rose, went forth, and followed Thee.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-006-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Still the small inward voice I hear, That whispers all my sins forgiv'n; Still the atoning blood is near, That quenched the wrath of hostile Heav'n. I feel the life His wounds impart; I feel the Savior in my heart.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-006-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "No condemnation now I dread; Jesus, and all in Him, is mine; Alive in Him, my living Head, And clothed in righteousness divine, Bold I approach th'eternal throne, And claim the crown, through Christ my own.",
+          "order": 5
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Charles Wesley, 1738. Music: 'Fillmore' Jeremiah Ingalls (1764-1828). Setting: \"The Methodist Hymnal\", 1905. copyright: public domain. This score is a part of the Open Hymnal Project, 2010 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-007",
+      "title": "Be Thou My Vision",
+      "alternateTitle": "",
+      "author": "Attr. Dallan Forgaill, 8th Century. Translated by Mary Byrne, 1905 and Eleanor Hull, 1912.",
+      "composer": "'Slane' Traditional Irish.",
+      "tune": "Slane",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Jn 16:13",
+        "Num 12:6"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-007-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Be Thou my Vision, O Lord of my heart; Naught be all else to me, save that Thou art. Thou my best Thought, by day or by night, Waking or sleeping, Thy presence my light.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-007-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Be Thou my Wisdom, and Thou my true Word; I ever with Thee and Thou with me, Lord; Thou my great Father, and I Thy true son; Thou in me dwelling, and I with Thee one.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-007-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Be Thou my battle Shield, Sword for the fight; Be Thou my Dignity, Thou my Delight; Thou my soul's Shelter, Thou my high Tower: Raise Thou me heav'nward, O Pow'r of my pow'r.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-007-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Riches I heed not, nor man's empty praise, Thou mine Inheritance, now and always: Thou and Thou only, be first in my heart, High King of Heaven, my Treasure Thou art.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-007-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "High King of Heaven, my victory won, May I reach Heav'ns joys, O bright Heaven's Sun! Heart of my own heart, whatever befall, Still be my Vision, O Ruler of all.",
+          "order": 4
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Attr. Dallan Forgaill, 8th Century. Translated by Mary Byrne, 1905 and Eleanor Hull, 1912. Music: 'Slane' Traditional Irish. Setting: Mark Hamilton Dewey, 2007. copyright: public domain. This score is a part of the Open Hymnal Project, 2008 Revision. All portions of the setting that were not already public domain were released to the public domain by the arranger on 27 July 2007. He already had released the parts and the versification (except for a few changes in the third verse, which he released to the public domain in 2007) to the public domain in 2006.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-008",
+      "title": "Blessed Assurance",
+      "alternateTitle": "",
+      "author": "Fanny Crosby, 1873. Music and",
+      "composer": "",
+      "tune": "",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Heb 10:21-23",
+        "Ps 71:24",
+        "Rom 5:1"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-008-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Blessèd assurance, Jesus is mine! O what a foretaste of glory divine! Heir of salvation, purchase of God, Born of His Spirit, washed in His blood. This is my story, this is my song, Praising my Savior, all the day long; This is my story, this is my song, Praising my Savior, all the day long.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-008-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Perfect submission, perfect delight, Visions of rapture now burst on my sight; Angels descending bring from above Echoes of mercy, whispers of love. This is my story, this is my song, Praising my Savior, all the day long; This is my story, this is my song, Praising my Savior, all the day long.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-008-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Perfect submission, all is at rest I in my Savior am happy and blest, Watching and waiting, looking above, Filled with His goodness, lost in His love. This is my story, this is my song, Praising my Savior, all the day long; This is my story, this is my song, Praising my Savior, all the day long.",
+          "order": 2
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Fanny Crosby, 1873. Music and Setting: 'Blessed Assurance' or 'Assurance' Phoebe P. Knapp, 1873. copyright: public domain. This score is a part of the Open Hymnal Project, 2008 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-009",
+      "title": "Come Thou Fount Of Every Blessing",
+      "alternateTitle": "",
+      "author": "Robert Robinson, 1758.",
+      "composer": "'Nettleton' Asahel Nettleton, 1812.",
+      "tune": "Nettleton",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Ps 36:9-11",
+        "Jn 4:13-14",
+        "1Sam 7:3-12",
+        "Heb 13:20-21",
+        "1 Pt 1:18-19",
+        "Eph 1:13-14"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-009-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Come, Thou Fount of every blessing, Tune my heart to sing Thy grace; Streams of mercy, never ceasing, Call for songs of loudest praise. Teach me some melodious sonnet, Sung by flaming tongues above. Praise the mount! I'm fixed upon it, Mount of Thy redeeming love.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-009-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Sorr'wing I shall be in spirit, Till released from flesh and sin, Yet from what I do inherit, Here Thy praises I'll begin; Here I raise my Ebenezer; Here by Thy great help I've come; And I hope, by Thy good pleasure, Safely to arrive at home.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-009-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Jesus sought me when a stranger, Wand'ring from the fold of God; He, to rescue me from danger, Interposed His precious blood; How His kindness yet pursues me Mortal tongue can never tell, Clothed in flesh, till death shall loose me I cannot proclaim it well.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-009-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "O to grace how great a debtor Daily I'm constrained to be! Let Thy goodness, like a fetter, Bind my wand'ring heart to Thee. Prone to wander, Lord, I feel it, Prone to leave the God I love; Here's my heart, O take and seal it, Seal it for Thy courts above.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-009-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "O that day when freed from sinning, I shall see Thy lovely face; Clothèd then in blood washed linen How I'll sing Thy sovereign grace; Come, my Lord, no longer tarry, Take my ransomed soul away; Send thine angels now to carry Me to realms of endless day.",
+          "order": 4
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Robert Robinson, 1758. Music: 'Nettleton' Asahel Nettleton, 1812. Setting: \"The Evangelical Hymnal\", 1921. copyright: public domain. This score is a part of the Open Hymnal Project, 2010 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-010",
+      "title": "Crown Him With Many Crowns",
+      "alternateTitle": "",
+      "author": "Verses 1, 4, 5, 6 & 9: Matthew Bridges, The Passion of Jesus, 1852. verses 2 & 3: Godfrey Thring, Hymns and Sacred Lyrics, 1874.",
+      "composer": "'Diademata' George J. Elvey, 1868.",
+      "tune": "Diademata",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Rev 19:12",
+        "5:13"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-010-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Crown Him with many crowns, the Lamb upon His throne. Hark! How the heav'nly anthem drowns all music but its own. Awake, my soul, and sing of Him who died for thee, And hail Him as thy matchless King through all eternity.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-010-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Crown Him the virgin's Son, the God incarnate born, Whose arm those crimson trophies won which now His brow adorn; Fruit of the mystic rose, as of that rose the stem; The root whence mercy ever flows, the Babe of Bethlehem.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-010-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Crown Him the Son of God, before the worlds began, And ye who tread where He hath trod, crown Him the Son of Man; Who every grief hath known that wrings the human breast, And takes and bears them for His own, that all in Him may rest.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-010-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Crown Him the Lord of life, who triumphed o'er the grave, And rose victorious in the strife for those He came to save. His glories now we sing, Who died, and rose on high, Who died eternal life to bring, and lives that death may die.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-010-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Crown Him the Lord of peace, Whose pow'r a scepter sways From pole to pole, that wars may cease, and all be prayer and praise. His reign shall know no end, and round His pierced feet Fair flow'rs of paradise extend their fragrance ever sweet.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-010-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "Crown Him the Lord of love, behold His hands and side, Those wounds, yet visible above, in beauty glorified. No angel in the sky can fully bear that sight, But downward bends his burning eye at mysteries so bright.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-010-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "Crown Him the Lord of Heaven, enthroned in worlds above, Crown Him the King to Whom is given the wondrous name of Love. Crown Him with many crowns, as thrones before Him fall; Crown Him, ye kings, with many crowns, for He is King of all.",
+          "order": 6
+        },
+        {
+          "id": "open-hymnal-010-v8",
+          "type": "verse",
+          "label": "Verse 8",
+          "lyrics": "Crown Him the Lord of lords, who over all doth reign, Who once on earth, the incarnate Word, for ransomed sinners slain, Now lives in realms of light, where saints with angels sing Their songs before Him day and night, their God, Redeemer, King.",
+          "order": 7
+        },
+        {
+          "id": "open-hymnal-010-v9",
+          "type": "verse",
+          "label": "Verse 9",
+          "lyrics": "Crown Him the Lord of years, the Potentate of time, Creator of the rolling spheres, ineffably sublime. All hail, Redeemer, hail! For Thou has died for me; Thy praise and glory shall not fail throughout eternity.",
+          "order": 8
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Verses 1, 4, 5, 6 & 9: Matthew Bridges, The Passion of Jesus, 1852. verses 2 & 3: Godfrey Thring, Hymns and Sacred Lyrics, 1874. Music: 'Diademata' George J. Elvey, 1868. Setting: \"Appendix to Hymns Ancient and Modern\", 1869. copyright: public domain. This score is a part of the Open Hymnal Project, 2008 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-011",
+      "title": "For The Beauty Of The Earth",
+      "alternateTitle": "",
+      "author": "Folliot S. Pierpoint, 1864.",
+      "composer": "'Dix' Conrad Kocher, 1838.",
+      "tune": "Dix",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Is 6:3",
+        "Ps 95:1-6",
+        "Ps 33:1-6"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-011-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "For the beauty of the earth For the glory of the skies, For the love which from our birth Over and around us lies. Lord of all, to Thee we raise, This our hymn of grateful praise.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-011-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "For the beauty of each hour, Of the day and of the night, Hill and vale, and tree and flow'r, Sun and moon, and stars of light. Lord of all, to Thee we raise, This our hymn of grateful praise.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-011-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "For the joy of ear and eye, For the heart and mind's delight, For the mystic harmony Linking sense to sound and sight. Lord of all, to Thee we raise, This our hymn of grateful praise.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-011-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "For the joy of human love, Brother, sister, parent, child, Friends on earth and friends above, For all gentle thoughts and mild. Lord of all, to Thee we raise, This our hymn of grateful praise.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-011-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "For Thy Church, that evermore Lifteth holy hands above, Off'ring up on every shore Her pure sacrifice of love. Lord of all, to Thee we raise, This our hymn of grateful praise.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-011-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "For the martyrs' crown of light, For Thy prophets' eagle eye, For Thy bold confessors' might, For the lips of infancy.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-011-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "For Thy virgins' robes of snow, For Thy maiden mother mild, For Thyself, with hearts aglow, Jesu, Victim undefiled.",
+          "order": 6
+        },
+        {
+          "id": "open-hymnal-011-v8",
+          "type": "verse",
+          "label": "Verse 8",
+          "lyrics": "For each perfect gift of Thine, To our race so freely given, Graces human and divine, Flowers of earth and buds of Heaven.",
+          "order": 7
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Folliot S. Pierpoint, 1864. Music: 'Dix' Conrad Kocher, 1838. Setting: \"The English Hymnal\", 1906. copyright: public domain. This score is a part of the Open Hymnal Project, 2008 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-012",
+      "title": "Holy, Holy, Holy",
+      "alternateTitle": "",
+      "author": "Reginald Heber, 1826.",
+      "composer": "'Nicaea' John Bacchus Dykes, 1861.",
+      "tune": "Nicaea",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Rev 4:4-11",
+        "Is 6:3"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-012-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Holy, holy, holy! Lord God Almighty! Early in the morning our song shall rise to Thee; Holy, holy, holy, merciful and mighty! God in three Persons, blessed Trinity!",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-012-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Holy, holy, holy! All the saints adore Thee, Casting down their golden crowns around the glassy sea; Cherubim and seraphim falling down before Thee, Who was, and is, and evermore shall be.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-012-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Holy, holy, holy! though the darkness hide Thee, Though the eye of sinful man Thy glory may not see; Only Thou art holy; there is none beside Thee, Perfect in pow'r, in love, and purity.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-012-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Holy, holy, holy! Lord God Almighty! All Thy works shall praise Thy Name, in earth, and sky, and sea; Holy, holy, holy; merciful and mighty! God in three Persons, blessed Trinity!",
+          "order": 3
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Reginald Heber, 1826. Music: 'Nicaea' John Bacchus Dykes, 1861. Setting: \"Hymns Ancient and Modern\", 1869. copyright: public domain. This score is a part of the Open Hymnal Project, 2005 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-013",
+      "title": "How Firm A Foundation",
+      "alternateTitle": "",
+      "author": "John Rippon, 1787.",
+      "composer": "'Foundation (Funk)' or 'Protection' Joseph Funk, 1832.",
+      "tune": "Foundation (Funk)",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "2Tim 2:19",
+        "Heb 13:5",
+        "Is 41:10",
+        "43:2-5",
+        "Lk 3:15-17",
+        "6:47-49"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-013-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "How firm a foundation, ye saints of the Lord, Is laid for your faith in His excellent Word! What more can He say than to you He hath said, You, who unto Jesus for refuge have fled?",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-013-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "In every condition, in sickness, in health; In poverty's vale, or abounding in wealth; At home and abroad, on the land, on the sea, As thy days demand, shall thy strength ever be.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-013-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Fear not, I am with thee, O be not dismayed, For I am thy God and will still give thee aid; I'll strengthen and help thee, and cause thee to stand Upheld by My righteous, omnipotent hand.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-013-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "When through the deep waters I call thee to go, The rivers of woe shall not thee overflow; For I will be with thee, thy troubles to bless, And sanctify to thee thy deepest distress.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-013-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "When through fiery trials thy pathways shall lie, My grace, all sufficient, shall be thy supply; The flame shall not hurt thee; I only design Thy dross to consume, and thy gold to refine.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-013-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "Even down to old age all My people shall prove My sovereign, eternal, unchangeable love; And when hoary hairs shall their temples adorn, Like lambs they shall still in My bosom be borne.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-013-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "The soul that on Jesus has leaned for repose, I will not, I will not desert to its foes; That soul, though all hell should endeavor to shake, I'll never, no never, no never forsake.",
+          "order": 6
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: John Rippon, 1787. Music: 'Foundation (Funk)' or 'Protection' Joseph Funk, 1832. Setting: \"Union Harmony\", 1837. copyright: public domain. This score is a part of the Open Hymnal Project, 2007 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-014",
+      "title": "I Need Thee Every Hour",
+      "alternateTitle": "",
+      "author": "Annie Sherwood Hawks, 1872.",
+      "composer": "'I Need Thee Every Hour' Robert Lowry, 1872.",
+      "tune": "I Need Thee Every Hour",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Heb 4:16",
+        "Phil 4:6"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-014-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "I need Thee ev'ry hour, Most gracious Lord; No tender voice like Thine Can peace afford. I need Thee, O I need Thee; Ev'ry hour I need Thee; O bless me now, my Savior, I come to Thee!",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-014-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "I need Thee ev'ry hour, Stay Thou near by; Temptations lose their pow'r When Thou art nigh. I need Thee, O I need Thee; Ev'ry hour I need Thee; O bless me now, my Savior, I come to Thee!",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-014-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "I need Thee ev'ry hour, In joy or pain; Come quickly and abide, Or life is vain. I need Thee, O I need Thee; Ev'ry hour I need Thee; O bless me now, my Savior, I come to Thee!",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-014-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "I need Thee ev'ry hour, Teach me Thy will; And Thy rich promises In me fulfill. I need Thee, O I need Thee; Ev'ry hour I need Thee; O bless me now, my Savior, I come to Thee!",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-014-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "I need Thee ev'ry hour, Most Holy One; O make me Thine indeed, Thou blessed Son! I need Thee, O I need Thee; Ev'ry hour I need Thee; O bless me now, my Savior, I come to Thee!",
+          "order": 4
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Annie Sherwood Hawks, 1872. Music: 'I Need Thee Every Hour' Robert Lowry, 1872. Setting: \"Pentecostal Hymns, No. 2\", 1898. copyright: public domain. This score is a part of the Open Hymnal Project, 2012 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-015",
+      "title": "Immortal, Invisible, God Only Wise",
+      "alternateTitle": "",
+      "author": "Walter Chalmers Smith, 1876.",
+      "composer": "'St. Denio' or 'Joanna' or 'Palestrina' traditional Welsh found in \"Caniadau y Cyssegr\" by John Roberts, 1839.",
+      "tune": "St. Denio",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "1Tim 1:17",
+        "Rom 1:20"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-015-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Immortal, invisible, God only wise, In light inaccessible hid from our eyes, Most blessèd, most glorious, the Ancient of Days, Almighty, victorious, Thy great Name we praise.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-015-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Unresting, unhasting, and silent as light, Nor wanting, nor wasting, Thou rulest in might; Thy justice, like mountains, high soaring above Thy clouds, which are fountains of goodness and love.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-015-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "To all, life Thou givest, to both great and small; In all life Thou livest, the true life of all; We blossom and flourish as leaves on the tree, And wither and perish but naught changeth Thee.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-015-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Great Father of glory, pure Father of light, Thine angels adore Thee, all veiling their sight; But of Thy rich graces this grace, Lord, impart Take the veil from our face, the vile from our heart.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-015-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "All laud we would render; O help us to see 'Tis only the splendor of light hideth Thee, And so let Thy glory, almighty, impart, Through Christ in His story, Thy Christ to the heart.",
+          "order": 4
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Walter Chalmers Smith, 1876. Music: 'St. Denio' or 'Joanna' or 'Palestrina' traditional Welsh found in \"Caniadau y Cyssegr\" by John Roberts, 1839. Setting: \"Caniadau y Cyssegr a'r Teulu\", 1878, alt. copyright: public domain. This score is a part of the Open Hymnal Project, 2005 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-016",
+      "title": "It Is Well With My Soul",
+      "alternateTitle": "It Is Well With My Soul(When Peace Like a River)",
+      "author": "Horatio G. Spafford, 1873. Music and",
+      "composer": "",
+      "tune": "",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Heb 6:17-19",
+        "Jn 14:27-28",
+        "Is 26:3",
+        "Rom 5:1"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-016-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "When peace, like a river, attendeth my way, When sorrows like sea billows roll; Whatever my lot, Thou has taught me to say, It is well, it is well, with my soul. It is well, with my soul, It is well, it is well with my soul.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-016-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Though Satan should buffet, though trials should come, Let this blest assurance control, That Christ has regarded my helpless estate, And hath shed His own blood for my soul. It is well, with my soul, It is well, it is well with my soul.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-016-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "My sin, oh, the bliss of this glorious thought! My sin, not in part but the whole, Is nailed to the cross, and I bear it no more, Praise the Lord, praise the Lord, O my soul! It is well, with my soul, It is well, it is well with my soul.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-016-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "For me, be it Christ, be it Christ hence to live: If Jordan above me shall roll, No pang shall be mine, for in death as in life Thou wilt whisper Thy peace to my soul. It is well, with my soul, It is well, it is well with my soul.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-016-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "But, Lord, 'tis for Thee, for Thy coming we wait, The sky, not the grave, is our goal; Oh trump of the angel! Oh voice of the Lord! Blessèd hope, blessèd rest of my soul! It is well, with my soul, It is well, it is well with my soul.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-016-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "And Lord, haste the day when my faith shall be sight, The clouds be rolled back as a scroll; The trump shall resound, and the Lord shall descend, Even so, it is well with my soul. It is well, with my soul, It is well, it is well with my soul.",
+          "order": 5
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Horatio G. Spafford, 1873. Music and Setting: 'It Is Well' or 'Ville Du Havre' Philip P. Bliss, 1876. copyright: public domain. This score is a part of the Open Hymnal Project, 2010 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-017",
+      "title": "Joyful, Joyful, We Adore Thee",
+      "alternateTitle": "",
+      "author": "Henry J. van Dyke, 1907.",
+      "composer": "'Ode to Joy' Ludwig van Beethoven; Adapted by Edward Hodges, 1824.",
+      "tune": "Ode to Joy",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Ps 71:23",
+        "Jn 12:46"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-017-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Joyful, joyful, we adore Thee, God of glory, Lord of love; Hearts unfold like flowers before Thee, opening to the sun above. Melt the clouds of sin and sadness; drive the dark of doubt away; Giver of immortal gladness, fill us with the light of day!",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-017-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "All Thy works with joy surround Thee, earth and heaven reflect Thy rays, Stars and angels sing around Thee, center of unbroken praise. Field and forest, vale and mountain, flowery meadow, flashing sea, Singing bird and flowing fountain call us to rejoice in Thee.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-017-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Thou art giving and forgiving, ever blessing, ever blessed, Wellspring of the joy of living, ocean depth of happy rest! Thou our Father, Christ our Brother, all who live in love are Thine; Teach us how to love each other, lift us to the joy divine.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-017-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Mortals, join the happy chorus, which the morning stars began; Father love is reigning o'er us, brother love binds man to man. Ever singing, march we onward, victors in the midst of strife, Joyful music leads us Sunward in the triumph song of life.",
+          "order": 3
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Henry J. van Dyke, 1907. Music: 'Ode to Joy' Ludwig van Beethoven; Adapted by Edward Hodges, 1824. Setting: \"The Methodist Hymnal\", 1905. copyright: public domain. This score is a part of the Open Hymnal Project, 2005 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-018",
+      "title": "My Hope Is Built",
+      "alternateTitle": "My Hope Is Built (also known as The Solid Rock)",
+      "author": "Edward Mote, circa 1834.",
+      "composer": "'Melita' John Bacchus Dykes, 1861.",
+      "tune": "Melita",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "1 Pt 2:5-8",
+        "Eph 2:19-22",
+        "Mt 7:24-27",
+        "Ps 18:2",
+        "2Cor 3:4-6",
+        "1Thess 4:16-17"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-018-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "My hope is built on nothing less Than Jesus' blood and righteousness. I dare not trust the sweetest frame, But wholly trust in Jesus' Name. On Christ the solid Rock I stand, All other ground is sinking sand.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-018-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "When darkness veils His lovely face, I rest on His unchanging grace. In every high and stormy gale, My anchor holds within the veil. On Christ the solid Rock I stand, All other ground is sinking sand.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-018-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "His oath, His covenant, His blood, Support me in the whelming flood. When all around my soul gives way, He then is all my hope and stay. On Christ the solid Rock I stand, All other ground is sinking sand.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-018-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "When He shall come with trumpet sound, Oh may I then in Him be found. Dressed in His righteousness alone, Faultless to stand before the throne. On Christ the solid Rock I stand, All other ground is sinking sand.",
+          "order": 3
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Edward Mote, circa 1834. Music: 'Melita' John Bacchus Dykes, 1861. Setting: \"Hymns Ancient and Modern\", 1869. copyright: public domain. This score is a part of the Open Hymnal Project, 2011 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-019",
+      "title": "Nearer, My God, To Thee",
+      "alternateTitle": "",
+      "author": "st. 1-2 by Sarah F. Adams, 1841; st. 3-5 by Hervey D. Ganse (1822-1891); st. 6 by Edward H. Bickersteth, Jr. (1825-1906).",
+      "composer": "'Bethany' Lowell Mason, 1856.",
+      "tune": "Bethany",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Eph 2:13-22",
+        "Heb 7:16-19"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-019-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Nearer, my God, to Thee, nearer to Thee! E'en though it be a cross that raiseth me, Still all my song shall be, nearer, my God, to Thee. Nearer, my God, to Thee, Nearer to Thee!",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-019-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Though like the wanderer, the sun gone down, Darkness be over me, my rest a stone. Yet in my dreams I'd be nearer, my God to Thee. Nearer, my God, to Thee, Nearer to Thee!",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-019-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Nearer, my Lord, to thee, Nearer to thee! Who to the cross didst come, Dying for me! Strengthen my willing feet, Hold me in service sweet Nearer, my God, to Thee, Nearer to Thee!",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-019-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Nearer, O Comforter, Nearer to thee! Who with my loving Lord Dwellest with me! Grant me thy fellowship! Help me each day to keep Nearer, my God, to Thee, Nearer to Thee!",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-019-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "But to be nearer still, Bring me, O God, Not by the visioned steeps Angels have trod. Here where thy cross I see, Jesus, I wait for thee, Then evermore to be Nearer to Thee!",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-019-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "There in my Father's home, safe and at rest, There in my Savior's love, perfectly blest; Age after age to be, nearer my God to Thee. Nearer, my God, to Thee, Nearer to Thee!",
+          "order": 5
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: st. 1-2 by Sarah F. Adams, 1841; st. 3-5 by Hervey D. Ganse (1822-1891); st. 6 by Edward H. Bickersteth, Jr. (1825-1906). Music: 'Bethany' Lowell Mason, 1856. Setting: The Evangelical Lutheran Hymnal (Ohio Synod), 1908. copyright: public domain. This score is a part of the Open Hymnal Project, 2008 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-020",
+      "title": "Jesus Shall Reign",
+      "alternateTitle": "",
+      "author": "Isaac Watts, 1719.",
+      "composer": "'Duke Street' John Hatton, 1793.",
+      "tune": "Duke Street",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Zech 9:9-10",
+        "Ps 72:8",
+        "Rev 22:3-5",
+        "15:3-4",
+        "1Cor 15:22-28",
+        "Is 9:6-7",
+        "Mk 1:34-39"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-020-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Jesus shall reign where'er the sun Does his successive journeys run; His kingdom stretch from shore to shore Till moons shall wax and wane no more.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-020-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "For Him shall endless prayer be made, And praises throng to crown His head; His Name, like sweet perfume shall rise With every morning sacrifice.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-020-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "People and realms of every tongue Dwell on His love with sweetest song; And infant voices shall proclaim Their early blessings on His Name.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-020-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Blessings abound where'er He reigns; The prisoner leaps to lose his chains, The weary find eternal rest, And all the sons of want are blest.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-020-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Where He displays His healing power Death and the curse are known no more; In Him the tribes of Adam boast More blessings than their father lost.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-020-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "Let every creature rise and bring Peculiar honors to our King, Angels descend with songs again, And earth repeat the loud Amen.",
+          "order": 5
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Isaac Watts, 1719. Music: 'Duke Street' John Hatton, 1793. Setting: \"Christian Hymns\", 1908. copyright: public domain. This score is a part of the Open Hymnal Project, 2011 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-021",
+      "title": "Pass Me Not, O Gentle Savior",
+      "alternateTitle": "",
+      "author": "Fanny J. Crosby, 1868.",
+      "composer": "'Pass Me Not O Gentle Savior' William Howard Doane, 1870.",
+      "tune": "Pass Me Not O Gentle Savior",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Mt 20:30-34",
+        "Gen 18:1-5",
+        "Mk 9:21-25"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-021-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Pass me not, O gentle Savior, Hear my humble cry; While on others Thou art calling, Do not pass me by. Savior, Savior, Hear my humble cry; While on others Thou art calling, Do not pass me by.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-021-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Let me at Thy throne of mercy Find a sweet relief, Kneeling there in deep contrition; Help my unbelief. Savior, Savior, Hear my humble cry; While on others Thou art calling, Do not pass me by.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-021-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Thou the Spring of all my comfort, More than life to me, Whom have I on earth beside Thee? Whom in Heav'n but Thee? Savior, Savior, Hear my humble cry; While on others Thou art calling, Do not pass me by.",
+          "order": 2
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Fanny J. Crosby, 1868. Music: 'Pass Me Not O Gentle Savior' William Howard Doane, 1870. Setting: \"The Coronation\", 1872. copyright: public domain. This score is a part of the Open Hymnal Project, 2011 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-022",
+      "title": "Praise To The Lord, The Almighty",
+      "alternateTitle": "",
+      "author": "Joachim Neander, 1680. Translated by Catherine Winkworth, 1863.",
+      "composer": "'Lobe den Herren' from Ander Theil des Erneuerten Gesangbuch, 1665.",
+      "tune": "Lobe den Herren",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Ps 150:1-2",
+        "Ps 23:6"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-022-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Praise to the Lord, the Almighty, the King of creation! O my soul, praise Him, for He is thy health and salvation! All ye who hear, now to His temple draw near; Praise Him in glad adoration.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-022-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Praise to the Lord, Who o'er all things so wondrously reigneth, Shelters thee under His wings, yea, so gently sustaineth! Hast thou not seen how thy desires have been Granted in what He ordaineth",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-022-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Praise to the Lord, Who hath fearfully, wondrously, made thee; Health hath vouchsafed and, when heedlessly falling, hath stayed thee. What need or grief ever hath failed of relief? Wings of His mercy did shade thee.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-022-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Praise to the Lord, Who doth prosper thy work and defend thee; Surely His goodness and mercy here daily attend thee. Ponder anew what the Almighty can do, If with His love He befriend thee.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-022-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Praise to the Lord, Who, when tempests their warfare are waging, Who, when the elements madly around thee are raging, Biddeth them cease, turneth their fury to peace, Whirlwinds and waters assuaging.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-022-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "Praise to the Lord, Who, when darkness of sin is abounding, Who, when the godless do triumph, all virtue confounding, Sheddeth His light, chaseth the horrors of night, Saints with His mercy surrounding.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-022-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "Praise to the Lord, O let all that is in me adore Him! All that hath life and breath, come now with praises before Him. Let the Amen sound from His people again, Gladly for aye we adore Him.",
+          "order": 6
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Joachim Neander, 1680. Translated by Catherine Winkworth, 1863. Music: 'Lobe den Herren' from Ander Theil des Erneuerten Gesangbuch, 1665. Setting: William Sterndale Bennett, 1863, alt. copyright: public domain. This score is a part of the Open Hymnal Project, 2006 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-023",
+      "title": "Rock of Ages",
+      "alternateTitle": "",
+      "author": "Augustus Montague Toplady, 1776.",
+      "composer": "'Toplady' Thomas Hastings, 1830.",
+      "tune": "Toplady",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Ps 89:26",
+        "Deut 32:1-4",
+        "Hab 1:12",
+        "Jn 19:34",
+        "1Cor 10:4",
+        "Heb 9:13-14"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-023-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Rock of Ages, cleft for me, Let me hide myself in Thee; Let the water and the blood, From Thy wounded side which flowed, Be of sin the double cure; Save from wrath and make me pure.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-023-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Not the labor of my hands Can fulfill Thy law's demands; Could my zeal no respite know, Could my tears forever flow, All for sin could not atone; Thou must save, and Thou alone.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-023-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Nothing in my hand I bring, Simply to the cross I cling; Naked, come to Thee for dress; Helpless look to Thee for grace; Foul, I to the fountain fly; Wash me, Savior, or I die.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-023-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "While I draw this fleeting breath, When mine eyes shall close in death, When I soar to worlds unknown, See Thee on Thy judgment throne, Rock of Ages, cleft for me, Let me hide myself in Thee.",
+          "order": 3
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Augustus Montague Toplady, 1776. Music: 'Toplady' Thomas Hastings, 1830. Setting: \"Congregational Church Music with 150 Psalms and Hymns\", 1854. copyright: public domain. This score is a part of the Open Hymnal Project, 2010 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-024",
+      "title": "Take My Life And Let It Be",
+      "alternateTitle": "",
+      "author": "Frances R. Havergal, 1874.",
+      "composer": "'Mozart' Wolfgang Amadeus Mozart (1756-1791).",
+      "tune": "Mozart",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Rom 12:1-2",
+        "Rom 6:13",
+        "1Cor 6:20",
+        "2Cor 5:15"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-024-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Take my life, and let it be consecrated, Lord, to Thee. Take my moments and my days; let them flow in ceaseless praise.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-024-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Take my hands, and let them move at the impulse of Thy love. Take my feet, and let them be swift and beautiful for Thee.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-024-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Take my voice, and let me sing always, only, for my King. Take my lips, and let them be filled with messages from Thee.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-024-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Take my silver and my gold; not a mite would I withhold. Take my intellect, and use every pow'r as Thou shalt choose.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-024-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Take my will, and make it Thine; it shall be no longer mine. Take my heart, it is Thine own; it shall be Thy royal throne.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-024-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "Take my love, my Lord, I pour at Thy feet its treasure store. Take myself, and I will be ever, only, all for Thee.",
+          "order": 5
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Frances R. Havergal, 1874. Music: 'Mozart' Wolfgang Amadeus Mozart (1756-1791). Setting: composite found in \"Hymnal and Liturgies of the Moravian Church\", 1920. copyright: public domain. This score is a part of the Open Hymnal Project, 2008 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-025",
+      "title": "What A Friend We Have In Jesus",
+      "alternateTitle": "",
+      "author": "Joseph M. Scriven, 1855.",
+      "composer": "'untitled' Charles C. Converse, 1868.",
+      "tune": "untitled",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Jn 15:13",
+        "Mt 7:7-8",
+        "Heb 4:15",
+        "Jn 15:14-16",
+        "1 Pt 2:24"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-025-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "What a Friend we have in Jesus, all our sins and griefs to bear! What a privilege to carry everything to God in prayer! O what peace we often forfeit, O what needless pain we bear, All because we do not carry everything to God in prayer.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-025-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Have we trials and temptations? Is there trouble anywhere? We should never be discouraged; take it to the Lord in prayer. Can we find a friend so faithful who will all our sorrows share? Jesus knows our every weakness; take it to the Lord in prayer.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-025-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Are we weak and heavy laden, cumbered with a load of care? Precious Savior, still our refuge, take it to the Lord in prayer. Do your friends despise, forsake you? Take it to the Lord in prayer! In His arms He'll take and shield you; you will find a solace there.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-025-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Blessed Savior, Thou hast promised Thou wilt all our burdens bear May we ever, Lord, be bringing all to Thee in earnest prayer. Soon in glory bright unclouded there will be no need for prayer Rapture, praise and endless worship will be our sweet portion there.",
+          "order": 3
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Joseph M. Scriven, 1855. Music: 'untitled' Charles C. Converse, 1868. Setting: \"Book of hymns and tunes\", 1874. copyright: public domain. This score is a part of the Open Hymnal Project, 2005 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-026",
+      "title": "When I Survey the Wondrous Cross",
+      "alternateTitle": "",
+      "author": "Isaac Watts, 1707.",
+      "composer": "'Duke Street' John Hatton, 1793.",
+      "tune": "Duke Street",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Gal 6:14",
+        "Rom 7:24"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-026-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "When I survey the wondrous cross On which the Prince of Glory died, My rich-est gain I count but loss, And pour contempt on all my pride.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-026-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Forbid it, Lord, that I should boast, Save in the death of Christ my God! All the vain things that charm me most, I sacrifice them to His blood.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-026-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "See from His head, His hands, His feet, Sorrow and love flow mingled down! Did e'er such love and sorrow meet, Or thorns compose so rich a crown?",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-026-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "His dying crimson, like a robe, Spreads o'er His body on the tree; Then I am dead to all the globe, And all the globe is dead to me.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-026-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Were the whole realm of nature mine, That were a present far too small; Love so amazing, so divine, Demands my soul, my life, my all.",
+          "order": 4
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Isaac Watts, 1707. Music: 'Duke Street' John Hatton, 1793. Setting: \"Finest of the Wheat No. 3\" Hymnal, 1904. copyright: public domain. This score is a part of the Open Hymnal Project, 2014 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-027",
+      "title": "Guide Me, O Thou Great Jehovah",
+      "alternateTitle": "",
+      "author": "William Williams, 1745. Translated by Peter Williams, 1771.",
+      "composer": "'Cwm Rhondda' John Hughes, 1907.",
+      "tune": "Cwm Rhondda",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Ex 15:13",
+        "Ex 13:21-22",
+        "Jn 6:32-35",
+        "Jn 4:14"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-027-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Guide me, O Thou great Jehovah, Pilgrim through this barren land. I am weak, but Thou art mighty; Hold me with Thy pow'rful hand. Bread of Heaven, Bread of Heaven, Feed me till I want no more; Feed me till I want no more.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-027-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Open now the crystal fountain, Whence the healing stream doth flow; Let the fire and cloudy pillar Lead me all my journey through. Strong Deliv'rer, strong Deliv'rer, Be Thou still my Strength and Shield; Be Thou still my Strength and Shield.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-027-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Lord, I trust Thy mighty power, Wondrous are Thy works of old; Thou deliver'st Thine from thralldom, Who for naught themselves had sold: Thou didst conquer, Thou didst conquer, Sin, and Satan and the grave, Sin, and Satan and the grave.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-027-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "When I tread the verge of Jordan, Bid my anxious fears subside; Death of deaths, and hell's destruction, Land me safe on Canaan's side. Songs of praises, songs of praises, I will ever give to Thee; I will ever give to Thee.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-027-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "Musing on my habitation, Musing on my heav'nly home, Fills my soul with holy longings: Come, my Jesus, quickly come; Vanity is all I see; Lord, I long to be with Thee! Lord, I long to be with Thee!",
+          "order": 4
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: William Williams, 1745. Translated by Peter Williams, 1771. Music: 'Cwm Rhondda' John Hughes, 1907. Setting: \"The Methodist Hymnbook\" (UK), 1933. copyright: public domain. This score is a part of the Open Hymnal Project, 2007 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-028",
+      "title": "O For A Thousand Tongues",
+      "alternateTitle": "",
+      "author": "Charles Wesley, 1740.",
+      "composer": "'Azmon' Carl G. Gläser, 1828.",
+      "tune": "Azmon",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Ps 96:1-3",
+        "1 Pt 1:18-19",
+        "Rev 5:11-13",
+        "Eph 2:8-9"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-028-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "O for a thousand tongues to sing My great Redeemer's praise, The glories of my God and King, The triumphs of His grace!",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-028-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "My gracious Master and my God, Assist me to proclaim, To spread through all the earth abroad The honors of Thy name.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-028-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Jesus! the name that charms our fears, That bids our sorrows cease; 'Tis music in the sinner's ears, 'Tis life, and health, and peace.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-028-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "He breaks the pow'r of canceled sin, He sets the prisoner free; His blood can make the foulest clean, His blood availed for me.",
+          "order": 3
+        },
+        {
+          "id": "open-hymnal-028-v5",
+          "type": "verse",
+          "label": "Verse 5",
+          "lyrics": "He speaks, and, listening to His voice, New life the dead receive, The mournful, broken hearts rejoice, The humble poor believe.",
+          "order": 4
+        },
+        {
+          "id": "open-hymnal-028-v6",
+          "type": "verse",
+          "label": "Verse 6",
+          "lyrics": "Hear Him, ye deaf; His praise, ye dumb, Your loosened tongues employ; Ye blind, behold your Savior come, And leap, ye lame, for joy.",
+          "order": 5
+        },
+        {
+          "id": "open-hymnal-028-v7",
+          "type": "verse",
+          "label": "Verse 7",
+          "lyrics": "In Christ your Head, you then shall know, Shall feel your sins forgiven; Anticipate your heaven below, And own that love is heaven.",
+          "order": 6
+        },
+        {
+          "id": "open-hymnal-028-v8",
+          "type": "verse",
+          "label": "Verse 8",
+          "lyrics": "Glory to God, and praise and love Be ever, ever given, By saints below and saints above, The church in earth and heaven.",
+          "order": 7
+        },
+        {
+          "id": "open-hymnal-028-v9",
+          "type": "verse",
+          "label": "Verse 9",
+          "lyrics": "On this glad day the glorious Sun Of Righteousness arose; On my benighted soul He shone And filled it with repose.",
+          "order": 8
+        },
+        {
+          "id": "open-hymnal-028-v10",
+          "type": "verse",
+          "label": "Verse 10",
+          "lyrics": "Sudden expired the legal strife, 'Twas then I ceased to grieve; My second, real, living life I then began to live.",
+          "order": 9
+        },
+        {
+          "id": "open-hymnal-028-v11",
+          "type": "verse",
+          "label": "Verse 11",
+          "lyrics": "Then with my heart I first believed, Believed with faith divine, Power with the Holy Ghost received To call the Savior mine.",
+          "order": 10
+        },
+        {
+          "id": "open-hymnal-028-v12",
+          "type": "verse",
+          "label": "Verse 12",
+          "lyrics": "I felt my Lord's atoning blood Close to my soul applied; Me, me He loved, the Son of God, For me, for me He died!",
+          "order": 11
+        },
+        {
+          "id": "open-hymnal-028-v13",
+          "type": "verse",
+          "label": "Verse 13",
+          "lyrics": "I found and owned His promise true, Ascertained of my part, My pardon passed in heaven I knew When written on my heart.",
+          "order": 12
+        },
+        {
+          "id": "open-hymnal-028-v14",
+          "type": "verse",
+          "label": "Verse 14",
+          "lyrics": "Look unto Him, ye nations, own Your God, ye fallen race; Look, and be saved through faith alone, Be justified by grace.",
+          "order": 13
+        },
+        {
+          "id": "open-hymnal-028-v15",
+          "type": "verse",
+          "label": "Verse 15",
+          "lyrics": "See all your sins on Jesus laid: The Lamb of God was slain, His soul was once an offering made For every soul of man.",
+          "order": 14
+        },
+        {
+          "id": "open-hymnal-028-v16",
+          "type": "verse",
+          "label": "Verse 16",
+          "lyrics": "Awake from guilty nature's sleep, And Christ shall give you light, Cast all your sins into the deep, And wash the Æthiop white.",
+          "order": 15
+        },
+        {
+          "id": "open-hymnal-028-v17",
+          "type": "verse",
+          "label": "Verse 17",
+          "lyrics": "Harlots and publicans and thieves In holy triumph join! Saved is the sinner that believes From crimes as great as mine.",
+          "order": 16
+        },
+        {
+          "id": "open-hymnal-028-v18",
+          "type": "verse",
+          "label": "Verse 18",
+          "lyrics": "Murderers and all ye hellish crew, Ye sons of lust and pride, Believe the Savior died for you; For me the Savior died.",
+          "order": 17
+        },
+        {
+          "id": "open-hymnal-028-v19",
+          "type": "verse",
+          "label": "Verse 19",
+          "lyrics": "With me, your chief, ye then shall know, Shall feel your sins forgiven; Anticipate your heaven below, And own that love is heaven.",
+          "order": 18
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: Charles Wesley, 1740. Music: 'Azmon' Carl G. Gläser, 1828. Setting: Lowell Mason, 1839. copyright: public domain. This score is a part of the Open Hymnal Project, 2007 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-029",
+      "title": "Savior, Like A Shepherd Lead Us",
+      "alternateTitle": "",
+      "author": "attr. Dorothy Ann Thrupp, 1836. Music and",
+      "composer": "",
+      "tune": "",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "Jn 10:3",
+        "Ps 23",
+        "Jn 10:1-16",
+        "Eph 2:4-5",
+        "Rom 5:8"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-029-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Savior, like a shepherd lead us, much we need Thy tender care; In Thy pleasant pastures feed us, for our use Thy folds prepare. Blessèd Jesus, blessèd Jesus! Thou hast bought us, Thine we are. Blessèd Jesus, blessèd Jesus! Thou hast bought us, Thine we are.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-029-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "We are Thine, Thou dost befriend us, be the guardian of our way; Keep Thy flock, from sin defend us, seek us when we go astray. Blessèd Jesus, blessèd Jesus! Hear, O hear us when we pray. Blessèd Jesus, blessèd Jesus! Hear, O hear us when we pray.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-029-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Thou hast promised to receive us, poor and sinful though we be; Thou hast mercy to relieve us, grace to cleanse and pow'r to free. Blessèd Jesus, blessèd Jesus! We will early turn to Thee. Blessèd Jesus, blessèd Jesus! We will early turn to Thee.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-029-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Early let us seek Thy favor, early let us do Thy will; Blessèd Lord and only Savior, with Thy love our bosoms fill. Blessèd Jesus, blessèd Jesus! Thou hast loved us, love us still. Blessèd Jesus, blessèd Jesus! Thou hast loved us, love us still.",
+          "order": 3
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: attr. Dorothy Ann Thrupp, 1836. Music and Setting: 'Bradbury' William B. Bradbury, 1859. copyright: public domain. This score is a part of the Open Hymnal Project, 2007 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    },
+    {
+      "id": "open-hymnal-030",
+      "title": "Beautiful Savior",
+      "alternateTitle": "Beautiful Savior (also known as Fairest Lord Jesus)",
+      "author": "German Jesuits, published 1677. Translated by Joseph A. Seiss, 1873.",
+      "composer": "'Crusader`s Hymn' Silesian folk song, 1842.",
+      "tune": "Crusader`s Hymn",
+      "meter": "",
+      "topic": "Classic hymn",
+      "scriptureReferences": [
+        "So 6:10",
+        "Mt 6:29"
+      ],
+      "sections": [
+        {
+          "id": "open-hymnal-030-v1",
+          "type": "verse",
+          "label": "Verse 1",
+          "lyrics": "Beautiful Savior, King of Creation Son of God and Son of Man! Truly I'd love Thee, truly I'd serve Thee, Light of my soul, my joy, my crown.",
+          "order": 0
+        },
+        {
+          "id": "open-hymnal-030-v2",
+          "type": "verse",
+          "label": "Verse 2",
+          "lyrics": "Fair are the meadows, Fair are the woodlands, Robed in the flow'rs of blooming spring; Jesus is fairer, Jesus is purer, He makes our sorr'wing spirit sing.",
+          "order": 1
+        },
+        {
+          "id": "open-hymnal-030-v3",
+          "type": "verse",
+          "label": "Verse 3",
+          "lyrics": "Fair is the sunshine, Fair is the moonlight, Bright the sparkling stars on high; Jesus shines brighter, Jesus shines purer Than all the angels in the sky.",
+          "order": 2
+        },
+        {
+          "id": "open-hymnal-030-v4",
+          "type": "verse",
+          "label": "Verse 4",
+          "lyrics": "Beautiful Savior, Lord of the nations, Son of God and Son of Man! Glory and honor, Praise, adoration Now and forevermore be Thine!",
+          "order": 3
+        }
+      ],
+      "hymnal": {
+        "name": "Open Hymnal Project",
+        "edition": "2014.06",
+        "number": "",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml"
+      },
+      "rights": {
+        "status": "publicDomain",
+        "notice": "Words: German Jesuits, published 1677. Translated by Joseph A. Seiss, 1873. Music: 'Crusader`s Hymn' Silesian folk song, 1842. Setting: Richard S. Willis, 1850. copyright: public domain. This score is a part of the Open Hymnal Project, 2005 Revision.",
+        "rightsHolder": "Public domain",
+        "sourceUrl": "http://openhymnal.org/openhymnal.201406.xml",
+        "territoryNote": "Marked public domain by the source under United States law; verify local law before redistribution in another territory.",
+        "verifiedAt": "2026-08-09T00:00:00.000Z"
+      },
+      "createdAt": "2026-08-09T00:00:00.000Z",
+      "updatedAt": "2026-08-09T00:00:00.000Z",
+      "isBundled": true
+    }
+  ]
+}
